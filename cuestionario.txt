@@ -8,3 +8,4 @@ Describe el procedimiento por el cual una canción de Spotify llega del servidor
 Si quieres escucharlo se transmite por ondas de IP, al igual que los anuncios.
 Describe los protocolos que existen en internet, en específico HTTP y HTML
 Se le llama Hyper Text HTTP HiperText Transfers Protocol, y usa comuncación con otros ordenadores y hace GET y el nombre del documento que quieres, y el HTML es el código para decir a un navegador como presentar una página.
+En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
