@@ -1,5 +1,5 @@
 # cuestionario
 
-¿Qué es lo que más tegusta de ti?
+¿Qué es el internet?
 
-¿Cuales son tus hobbies?
+Describe los medios fisicos y de programación de ondas por lo que se transmite la información del internet
