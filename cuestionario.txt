@@ -3,3 +3,4 @@ El internet, es otro medio de comunicación, en el cual se conecta por medio de 
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
 Desde antes se utilisaban por medio de cables, hasta la actualidad por medio de ondas Wi-Fi e eenvia información binaria con códigos
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+El protocolo es un conjunto de reglas que están de acuerdo a comunicar, la dirección IP, es la ubicación, para visitar un sitio web, para la información, también puede contener algunos códigos y mandar una respuesta y los DNS se asocian nombres como www.patito.com 
