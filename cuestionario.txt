@@ -1,3 +1,4 @@
 En tus palabras, ¿Qué es internet?
 El internet, es otro medio de comunicación, en el cual se conecta por medio de satélites, redes o wifi, en el cual podemos navegar a cualquier página, jugar y poder comunicarnos mejor.
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+Desde antes se utilisaban por medio de cables, hasta la actualidad por medio de ondas Wi-Fi e eenvia información binaria con códigos
