@@ -15,3 +15,5 @@ En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los crim
 Cuando alguien hace delito de hackear cualquier cosa, robar informaciómn personal, desde un terrorista internacional o también un virus, se necesita usar herramientas
 para protejer la pc, como bloquear aplicaciones dañinas o no decir información de nada.
 ¿Cómo funciona la búsqueda de google?
+Cuando buscamos una pregunta, ya sea, buscar una app como youtube, twich o discord, una pregunta que no sabemos, aparecen resultados en primer lugar una respuesta, si no es lo que te dijo en la segunda
+y así sucesivamente y en realidad no va a internet, para hacer la búsqueda en tiempo real y están siendo creadas a minuto.
