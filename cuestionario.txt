@@ -11,3 +11,4 @@ Se le llama Hyper Text HTTP HiperText Transfers Protocol, y usa comuncación con
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 También se puede utilizar para guardar información privada, como las contraseñas y correo, pero no puede ser doxxeado por nadie, la encriptación hace que el documento
 se vuelva a revolver, para que sea leíble el mensaje.
+En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
