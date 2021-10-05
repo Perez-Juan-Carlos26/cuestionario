@@ -1,19 +1,30 @@
+<!-- ---- 5oct | @SRTP: preguntas no enumeradas ----  -->
+<!-- ---- 5oct | @SRTP: faltan nombres y grupo ----  -->
+
 En tus palabras, ¿Qué es internet?
-El internet, es otro medio de comunicación, en el cual se conecta por medio de satélites, redes o wifi, en el cual podemos navegar a cualquier página, jugar y poder comunicarnos mejor.
+El internet, es otro medio de comunicación, en el cual se conecta por medio de satélites, redes o wifi, en el cual podemos navegar a cualquier página, jugar y poder comunicarnos mejor. <!-- ---- 5oct | @SRTP: ¿viste el vídeo? ----  -->
+
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
-Desde antes se utilisaban por medio de cables, hasta la actualidad por medio de ondas Wi-Fi e eenvia información binaria con códigos
+Desde antes se utilisaban por medio de cables, hasta la actualidad por medio de ondas Wi-Fi e eenvia información binaria con códigos <!-- ---- 5oct | @SRTP: ok ----  -->
+
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-El protocolo es un conjunto de reglas que están de acuerdo a comunicar, la dirección IP, es la ubicación, para visitar un sitio web, para la información, también puede contener algunos códigos y mandar una respuesta y los DNS se asocian nombres como www.patito.com 
+El protocolo es un conjunto de reglas que están de acuerdo a comunicar, la dirección IP, es la ubicación, para visitar un sitio web, para la información, también puede contener algunos códigos y mandar una respuesta y los DNS se asocian nombres como www.patito.com  <!-- ---- 5oct | @SRTP: ok ----  -->
+
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-Si quieres escucharlo se transmite por ondas de IP, al igual que los anuncios.
+Si quieres escucharlo se transmite por ondas de IP, al igual que los anuncios. <!-- ---- 5oct | @SRTP: no viste el vídeo -0.5 ----  -->
+
 Describe los protocolos que existen en internet, en específico HTTP y HTML
-Se le llama Hyper Text HTTP HiperText Transfers Protocol, y usa comuncación con otros ordenadores y hace GET y el nombre del documento que quieres, y el HTML es el código para decir a un navegador como presentar una página.
+Se le llama Hyper Text HTTP HiperText Transfers Protocol, y usa comuncación con otros ordenadores y hace GET y el nombre del documento que quieres, y el HTML es el código para decir a un navegador como presentar una página. <!-- ---- 5oct | @SRTP: ok ----  -->
+
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 También se puede utilizar para guardar información privada, como las contraseñas y correo, pero no puede ser doxxeado por nadie, la encriptación hace que el documento
-se vuelva a revolver, para que sea leíble el mensaje.
+se vuelva a revolver, para que sea leíble el mensaje.  <!-- ---- 5oct | @SRTP: faltó desarrollar -0.5 ----  -->
+
+
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 Cuando alguien hace delito de hackear cualquier cosa, robar informaciómn personal, desde un terrorista internacional o también un virus, se necesita usar herramientas
-para protejer la pc, como bloquear aplicaciones dañinas o no decir información de nada.
+para protejer la pc, como bloquear aplicaciones dañinas o no decir información de nada. <!-- ---- 5oct | @SRTP: ok ----  -->
+
 ¿Cómo funciona la búsqueda de google?
 Cuando buscamos una pregunta, ya sea, buscar una app como youtube, twich o discord, una pregunta que no sabemos, aparecen resultados en primer lugar una respuesta, si no es lo que te dijo en la segunda
-y así sucesivamente y en realidad no va a internet, para hacer la búsqueda en tiempo real y están siendo creadas a minuto.
+y así sucesivamente y en realidad no va a internet, para hacer la búsqueda en tiempo real y están siendo creadas a minuto. <!-- ---- 5oct | @SRTP: Viste el vídeo? -0.5 ----  -->
