@@ -9,3 +9,5 @@ Si quieres escucharlo se transmite por ondas de IP, al igual que los anuncios.
 Describe los protocolos que existen en internet, en específico HTTP y HTML
 Se le llama Hyper Text HTTP HiperText Transfers Protocol, y usa comuncación con otros ordenadores y hace GET y el nombre del documento que quieres, y el HTML es el código para decir a un navegador como presentar una página.
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+También se puede utilizar para guardar información privada, como las contraseñas y correo, pero no puede ser doxxeado por nadie, la encriptación hace que el documento
+se vuelva a revolver, para que sea leíble el mensaje.
